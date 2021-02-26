@@ -9,13 +9,14 @@
             <header id="header">
               <div class="inner">
                 <!-- Logo -->
-                <h1><a href="index.html" id="logo">ZeroFour</a></h1>
+                <h1><a href="index.html" id="logo">Mitigation</a></h1>
+
                 <!-- Nav -->
                 <nav id="nav">
                   <ul>
-                    <li class="current_page_item"><a href="/index.html">Home</a></li>
+                    <li class="current_page_item"><a href="index.html">Home</a></li>
                     <li>
-                      <a href="#">Dropdown</a>
+                      <a href="index.html">Dropdown</a>
                       <ul>
                         <li><a href="#">Lorem ipsum dolor</a></li>
                         <li><a href="#">Magna phasellus</a></li>
@@ -42,14 +43,12 @@
             <!-- Banner -->
             <div id="banner">
               <h2>
-                <strong>ZeroFour:</strong>
-                A free responsive site template
+                <strong>Mitigation Company:</strong>
+                A description of the mitigation company
                 <br />
-                built on HTML5 and CSS3 by
-                <a href="http://html5up.net">HTML5 UP</a>
               </h2>
-              <p>Does this statement make you want to click the big shiny button?</p>
-              <a href="#" class="button large icon solid fa-check-circle">Yes it does</a>
+              <p>In need of our services?</p>
+              <a href="#" class="button large icon solid fa-check-circle">Contact Us!</a>
             </div>
           </div>
         </div>
